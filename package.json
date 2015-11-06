@@ -1,0 +1,15 @@
+{
+  "name": "appbase-blog",
+  "version": "1.0.0",
+  "description": "a blog with realtime capabilities using app base",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "girish ramnani",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3"
+  }
+}
