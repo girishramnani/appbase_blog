@@ -1,0 +1,543 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+head	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^<head>$/;"	function	line:7
+title	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^	<title>Simple Blog<\/title>$/;"	function	line:8
+meta	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^	<meta charset="utf-8">$/;"	function	line:10
+meta	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">$/;"	function	line:11
+meta	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^	<meta name="keywords" content="" \/>$/;"	function	line:12
+meta	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^	<meta name="description" content="" \/>$/;"	function	line:13
+link	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^   	<link href='http:\/\/fonts.googleapis.com\/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text\/css'>$/;"	function	line:18
+link	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    <link href='http:\/\/fonts.googleapis.com\/css?family=Raleway:100,200,300,400,500,600,700,800,900' rel='stylesheet' type='text\/css'>$/;"	function	line:19
+script	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^		<script src="http:\/\/html5shim.googlecode.com\/svn\/trunk\/html5.js"><\/script>$/;"	function	line:22
+link	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^  <link rel="stylesheet" href="public\/css\/reset.css" type="text\/css" \/>$/;"	function	line:26
+link	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^	<link rel="stylesheet" href="public\/css\/style.css" type="text\/css" \/>$/;"	function	line:27
+link	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    <link rel="stylesheet" href="public\/css\/font-awesome\/css\/font-awesome.min.css">$/;"	function	line:29
+link	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^	<link rel="stylesheet" media="screen" href="public\/css\/responsive-leyouts.css" type="text\/css" \/>$/;"	function	line:31
+link	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^  <link href="public\/js\/animations\/css\/animations.min.css" rel="stylesheet" type="text\/css" media="all" \/>$/;"	function	line:32
+link	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    <link rel="stylesheet" href="public\/css\/colors\/cyan.css" \/>$/;"	function	line:37
+link	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    <link rel="stylesheet" href="css\/bg-patterns\/pattern-one.css" \/>$/;"	function	line:40
+link	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    <link href="public\/js\/mainmenu\/bootstrap.min.css" rel="stylesheet">$/;"	function	line:56
+link	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    <link href="public\/js\/mainmenu\/menu.css" rel="stylesheet">$/;"	function	line:58
+link	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    <link rel="stylesheet" type="text\/css" href="public\/js\/slidepanel\/slidepanel.css">$/;"	function	line:61
+link	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^	<link rel="stylesheet" type="text\/css" href="public\/js\/cubeportfolio\/cubeportfolio.min.css">$/;"	function	line:64
+link	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    <link rel="stylesheet" type="text\/css" href="public\/js\/tabs\/tabwidget\/tabwidget.css" \/>$/;"	function	line:67
+link	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    <link rel="stylesheet" href="public\/js\/carousel\/flexslider.css" type="text\/css" media="screen" \/>$/;"	function	line:70
+link	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^ 	<link rel="stylesheet" type="text\/css" href="public\/js\/carousel\/skin.css" \/>$/;"	function	line:71
+link	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    <link rel="stylesheet" href="public\/js\/accordion\/accordion.css" type="text\/css" media="all">$/;"	function	line:74
+link	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    <link rel="stylesheet" type="text\/css" href="public\/js\/lightbox\/jquery.fancybox.css" media="screen" \/>$/;"	function	line:77
+body	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^<body>$/;"	function	line:82
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^<div class="site_wrapper">$/;"	function	line:85
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^<div id="sliderWrap">$/;"	function	line:87
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^	<div id="openCloseIdentifier"><\/div>$/;"	function	line:89
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <div id="slider">$/;"	function	line:91
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^          	<div id="sliderContent">$/;"	function	line:93
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <div class="container">$/;"	function	line:94
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            	<div class="one_fourth">$/;"	function	line:96
+h	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                	<h5 class="white">About Hoxa<\/h5>$/;"	function	line:98
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <div class="one_fourth">$/;"	function	line:104
+h	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                	<h5 class="white">Showcase Works<\/h5>$/;"	function	line:106
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                    <div id="grid-container3" class="cbp-l-grid-fullScreen three">$/;"	function	line:108
+ul	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                    <ul>$/;"	function	line:109
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                        <li class="cbp-item">$/;"	function	line:111
+a	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                            <a href="http:\/\/placehold.it\/800x600" class="cbp-caption cbp-lightbox" data-title="Dashboard<br>by GSRthemes9">$/;"	function	line:112
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                                <div class="cbp-caption-defaultWrap">$/;"	function	line:113
+img	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                                    <img src="http:\/\/placehold.it\/800x600" alt="" \/>$/;"	function	line:114
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                        <li class="cbp-item">$/;"	function	line:119
+a	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                            <a href="http:\/\/placehold.it\/800x600" class="cbp-caption cbp-lightbox" data-title="Client chat app VIP<br>by GSRthemes9">$/;"	function	line:120
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                                <div class="cbp-caption-defaultWrap">$/;"	function	line:121
+img	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                                    <img src="http:\/\/placehold.it\/800x600" alt="" \/>$/;"	function	line:122
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                        <li class="cbp-item">$/;"	function	line:127
+a	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                            <a href="http:\/\/placehold.it\/800x600" class="cbp-caption cbp-lightbox" data-title="World Clock Widget<br>by GSRthemes9">$/;"	function	line:128
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                                <div class="cbp-caption-defaultWrap">$/;"	function	line:129
+img	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                                    <img src="http:\/\/placehold.it\/800x600" alt="" \/>$/;"	function	line:130
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                        <li class="cbp-item ">$/;"	function	line:135
+a	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                            <a href="http:\/\/vimeo.com\/14912890" class="cbp-caption cbp-lightbox" data-title="Vimeo Video Lightbox<br>by GSRthemes9">$/;"	function	line:136
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                                <div class="cbp-caption-defaultWrap">$/;"	function	line:137
+img	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                                    <img src="http:\/\/placehold.it\/800x600" alt="" \/>$/;"	function	line:138
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                        <li class="cbp-item">$/;"	function	line:143
+a	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                            <a href="http:\/\/placehold.it\/800x600" class="cbp-caption cbp-lightbox" data-title="Skateshop Website<br>by GSRthemes9">$/;"	function	line:144
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                                <div class="cbp-caption-defaultWrap">$/;"	function	line:145
+img	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                                    <img src="http:\/\/placehold.it\/800x600" alt="" \/>$/;"	function	line:146
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                        <li class="cbp-item">$/;"	function	line:151
+a	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                            <a href="http:\/\/www.youtube.com\/watch?v=Rgox84KE7iY" class="cbp-caption cbp-lightbox" data-title="Youtube Video Lightbox<br>by GSRthemes9">$/;"	function	line:152
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                                <div class="cbp-caption-defaultWrap">$/;"	function	line:153
+img	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                                    <img src="http:\/\/placehold.it\/800x600" alt="" \/>$/;"	function	line:154
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                        <li class="cbp-item">$/;"	function	line:159
+a	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                            <a href="http:\/\/placehold.it\/800x600" class="cbp-caption cbp-lightbox" data-title="To-Do Dashboard<br>by by GSRthemes9">$/;"	function	line:160
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                                <div class="cbp-caption-defaultWrap">$/;"	function	line:161
+img	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                                    <img src="http:\/\/placehold.it\/800x600" alt="" \/>$/;"	function	line:162
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                        <li class="cbp-item">$/;"	function	line:167
+a	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                            <a href="http:\/\/placehold.it\/800x600" class="cbp-caption cbp-lightbox" data-title="Events and  More<br>by GSRthemes9">$/;"	function	line:168
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                                <div class="cbp-caption-defaultWrap">$/;"	function	line:169
+img	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                                    <img src="http:\/\/placehold.it\/800x600" alt="" \/>$/;"	function	line:170
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                        <li class="cbp-item">$/;"	function	line:175
+a	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                            <a href="http:\/\/placehold.it\/800x600" class="cbp-caption cbp-lightbox" data-title="Events and  More<br>by GSRthemes9">$/;"	function	line:176
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                                <div class="cbp-caption-defaultWrap">$/;"	function	line:177
+img	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                                    <img src="http:\/\/placehold.it\/800x600" alt="" \/>$/;"	function	line:178
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                    <div class="cbp-l-loadMore-text">$/;"	function	line:185
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                    <div data-href="#" class="cbp-l-loadMore-text-link"><\/div>$/;"	function	line:186
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <div class="one_fourth">$/;"	function	line:192
+h	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                	<h5 class="white">Diffrent Websites<\/h5>$/;"	function	line:194
+ul	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                    <ul class="list_5">$/;"	function	line:196
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                        <li><a href="http:\/\/gsrthemes.com\/hoxa\/fullwidth\/index-1.html"><img src="images\/t-thumb1.jpg" alt="" \/> Creative Style<\/a><\/li>$/;"	function	line:198
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                        <li><a href="http:\/\/gsrthemes.com\/hoxa\/fullwidth\/index-2.html"><img src="images\/t-thumb2.jpg" alt="" \/> Portfolio Style<\/a><\/li>$/;"	function	line:199
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                        <li><a href="http:\/\/gsrthemes.com\/hoxa\/layout2\/index.html"><img src="images\/t-thumb3.jpg" alt="" \/> One Page Style<\/a><\/li>$/;"	function	line:200
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                        <li class="last"><a href="http:\/\/gsrthemes.com\/hoxa\/fullwidth\/index-3.html"><img src="images\/t-thumb4.jpg" alt="" \/> Landing Page<\/a><\/li>$/;"	function	line:201
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <div class="one_fourth last">$/;"	function	line:207
+h	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                	<h5 class="white">Get in Touch<\/h5>$/;"	function	line:209
+ul	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                    <ul class="faddress">$/;"	function	line:211
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                        <li><i class="fa fa-map-marker fa-lg"><\/i>&nbsp; 2901 Marmora Road, Glassgow,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seattle, WA 98122-1090<\/li>$/;"	function	line:213
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                        <li><i class="fa fa-phone"><\/i>&nbsp; (088) -234 -456 -7890<\/li>$/;"	function	line:214
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                        <li><i class="fa fa-print"><\/i>&nbsp; (088) -234 -456 -7890<\/li>$/;"	function	line:215
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                        <li><i class="fa fa-envelope"><\/i>&nbsp; <a href="mailto:info@yourdomain.com">info@yourdomain.com<\/a><\/li>$/;"	function	line:216
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                        <li><i class="fa fa-globe"><\/i>&nbsp; <a href="#">http:\/\/domainname.com<\/a><\/li>$/;"	function	line:217
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^	<div id="openCloseWrap"><a href="#" class="topMenuAction" id="topMenuImage"><img src="public\/js\/slidepanel\/open.png" alt="open" title="open" \/><\/a><\/div>$/;"	function	line:227
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^<div class="clearfix"><\/div>$/;"	function	line:231
+header	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^<header id="header">$/;"	function	line:233
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^	<div id="topHeader">$/;"	function	line:236
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^	<div class="wrapper">$/;"	function	line:238
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <div class="top_nav">$/;"	function	line:240
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <div class="container">$/;"	function	line:241
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <div class="right">$/;"	function	line:243
+ul	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <ul>$/;"	function	line:245
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            	<li class="link"><a href="login.html"><i class="fa fa-lock"><\/i> Login<\/a><\/li>$/;"	function	line:246
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <li class="link"><a href="register.html"><i class="fa fa-edit"><\/i> Register<\/a><\/li>$/;"	function	line:247
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <li><a href="mailto:info@yourdomain.com"><i class="fa fa-envelope"><\/i> info@sitedomain.com<\/a><\/li>$/;"	function	line:248
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <li><i class="fa fa-phone"><\/i> +88 123 456 7890<\/li>$/;"	function	line:249
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <li><a href="#"><i class="fa fa-facebook"><\/i><\/a><\/li>$/;"	function	line:251
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <li><a href="#"><i class="fa fa-twitter"><\/i><\/a><\/li>$/;"	function	line:252
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <li><a href="#"><i class="fa fa-google-plus"><\/i><\/a><\/li>$/;"	function	line:253
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <li><a href="#"><i class="fa fa-linkedin"><\/i><\/a><\/li>$/;"	function	line:254
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <li><a href="#"><i class="fa fa-flickr"><\/i><\/a><\/li>$/;"	function	line:255
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <li><a href="#"><i class="fa fa-youtube"><\/i><\/a><\/li>$/;"	function	line:256
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <li><a href="#"><i class="fa fa-rss"><\/i><\/a><\/li>$/;"	function	line:257
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^	<div id="trueHeader">$/;"	function	line:270
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^	<div class="wrapper">$/;"	function	line:272
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^     <div class="container">$/;"	function	line:274
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^		<div class="logo"><a href="index.html" id="logo"><\/a><\/div>$/;"	function	line:277
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^	<div class="menu_main">$/;"	function	line:280
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^	<div class="navbar yamm navbar-default">$/;"	function	line:282
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    <div class="container">$/;"	function	line:284
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^      <div class="navbar-header">$/;"	function	line:285
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <div class="navbar-toggle .navbar-collapse .pull-right " data-toggle="collapse" data-target="#navbar-collapse-1"  > <span>Menu<\/span>$/;"	function	line:286
+button	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^          <button type="button" > <i class="fa fa-bars"><\/i><\/button>$/;"	function	line:287
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^      <div id="navbar-collapse-1" class="navbar-collapse collapse pull-right">$/;"	function	line:291
+ul	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <ul class="nav navbar-nav">$/;"	function	line:293
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <li><a href="index.html"><i class="fa fa-home"><\/i> Home<\/a><\/li>$/;"	function	line:295
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <li class="dropdown"> <a href="#" data-toggle="dropdown" class="dropdown-toggle"><i class="fa fa-leaf"><\/i> Layouts<\/a>$/;"	function	line:297
+ul	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <ul class="dropdown-menu" role="menu">$/;"	function	line:298
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><a href="http:\/\/gsrthemes.com\/hoxa\/layout1\/fullwidth\/index.html">Business<\/a> <\/li>$/;"	function	line:299
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><a href="index-1.html">Creative<\/a> <\/li>$/;"	function	line:300
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><a href="index-2.html">Portfolio<\/a> <\/li>$/;"	function	line:301
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><a href="http:\/\/gsrthemes.com\/hoxa\/layout2\/index.html">One Page Theme<\/a> <\/li>$/;"	function	line:302
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><a href="index-3.html">Landing Page<\/a> <\/li>$/;"	function	line:303
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><a href="index.html">Corporate<\/a> <\/li>$/;"	function	line:304
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <li class="dropdown yamm-fw"> <a href="#" data-toggle="dropdown" class="dropdown-toggle"><i class="fa fa-leaf"><\/i> Features<\/a>$/;"	function	line:308
+ul	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <ul class="dropdown-menu">$/;"	function	line:309
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^          <li>$/;"	function	line:310
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <div class="yamm-content">$/;"	function	line:311
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^              <div class="row">$/;"	function	line:312
+ul	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <ul class="col-sm-6 col-md-3 list-unstyled ">$/;"	function	line:314
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                  <li>$/;"	function	line:315
+p	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                    <p>About Us<\/p>$/;"	function	line:316
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                  <li>$/;"	function	line:318
+img	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                  <img src="http:\/\/placehold.it\/189x120" alt="" class="img_left4" \/>$/;"	function	line:319
+ul	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <ul class="col-sm-6 col-md-3 list-unstyled ">$/;"	function	line:323
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                    <li>$/;"	function	line:324
+p	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                    <p>Useful Pages<\/p>$/;"	function	line:325
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                    <li><a href="elements.html"><i class="fa fa-angle-right"><\/i> Elements<\/a><\/li>$/;"	function	line:327
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                    <li><a href="typography.html"><i class="fa fa-angle-right"><\/i> Typography<\/a><\/li>$/;"	function	line:328
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                    <li><a href="pricing-tables.html"><i class="fa fa-angle-right"><\/i> Pricing Tables<\/a><\/li>$/;"	function	line:329
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                    <li><a href="columns.html"><i class="fa fa-angle-right"><\/i> Page Columns<\/a><\/li>$/;"	function	line:330
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                    <li><a href="team.html"><i class="fa fa-angle-right"><\/i> Our Team<\/a><\/li>$/;"	function	line:331
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                    <li><a href="faqs.html"><i class="fa fa-angle-right"><\/i> FAQs<\/a><\/li>$/;"	function	line:332
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                    <li><a href="tabs.html"><i class="fa fa-angle-right"><\/i> Tabs<\/a><\/li>$/;"	function	line:333
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                    <li><a href="login.html"><i class="fa fa-angle-right"><\/i> Login Form<\/a><\/li>$/;"	function	line:334
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                    <li><a href="register.html"><i class="fa fa-angle-right"><\/i> Register Form<\/a><\/li>$/;"	function	line:335
+ul	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <ul class="col-sm-6 col-md-3 list-unstyled ">$/;"	function	line:338
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                    <li>$/;"	function	line:339
+p	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                       <p>Diffrent Websites<\/p>$/;"	function	line:340
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                    <li> <a href="http:\/\/gsrthemes.com\/hoxa\/layout1\/fullwidth\/index.html"><i class="fa fa-angle-right"><\/i> Business<\/a> <\/li>$/;"	function	line:342
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                    <li> <a href="index-1.html"><i class="fa fa-angle-right"><\/i> Creative<\/a> <\/li>$/;"	function	line:343
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                    <li> <a href="http:\/\/gsrthemes.com\/hoxa\/layout2\/index.html"><i class="fa fa-angle-right"><\/i> One Page Theme<\/a> <\/li>$/;"	function	line:344
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                    <li> <a href="index-3.html"><i class="fa fa-angle-right"><\/i> Landing Page<\/a> <\/li>$/;"	function	line:345
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                    <li> <a href="index.html"><i class="fa fa-angle-right"><\/i> Corporate<\/a> <\/li>$/;"	function	line:346
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                    <li> <a href="index-2.html"><i class="fa fa-angle-right"><\/i> Portfolio Page<\/a> <\/li>$/;"	function	line:347
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                    <li> <a href="#"><i class="fa fa-angle-right"><\/i> Parallax Backgrounds<\/a> <\/li>$/;"	function	line:348
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                    <li> <a href="#"><i class="fa fa-angle-right"><\/i> Background Videos<\/a> <\/li>$/;"	function	line:349
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                    <li> <a href="#"><i class="fa fa-angle-right"><\/i> Create your Own<\/a> <\/li>$/;"	function	line:350
+ul	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <ul class="col-sm-6 col-md-3 list-unstyled ">$/;"	function	line:353
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <li>$/;"	function	line:354
+p	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                   <p>More Features<\/p>$/;"	function	line:355
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <li><a href="#"><i class="fa fa-angle-right"><\/i> Mega Menu<\/a><\/li>$/;"	function	line:357
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <li><a href="#"><i class="fa fa-angle-right"><\/i> Diffrent Websites<\/a><\/li>$/;"	function	line:358
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <li><a href="#"><i class="fa fa-angle-right"><\/i> Parallax Backgrounds<\/a><\/li>$/;"	function	line:359
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <li><a href="#"><i class="fa fa-angle-right"><\/i> Premium Sliders<\/a><\/li>$/;"	function	line:360
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <li><a href="#"><i class="fa fa-angle-right"><\/i> Diffrent Slide Shows<\/a><\/li>$/;"	function	line:361
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <li><a href="#"><i class="fa fa-angle-right"><\/i> Video BG Effects<\/a><\/li>$/;"	function	line:362
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <li><a href="#"><i class="fa fa-angle-right"><\/i> 100+ Feature Sections<\/a><\/li>$/;"	function	line:363
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <li><a href="#"><i class="fa fa-angle-right"><\/i> Use for any Website<\/a><\/li>$/;"	function	line:364
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <li><a href="#"><i class="fa fa-angle-right"><\/i> Free Updates<\/a><\/li>$/;"	function	line:365
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <li class="dropdown"> <a href="#" data-toggle="dropdown" class="dropdown-toggle"><i class="fa fa-pagelines"><\/i> Pages<\/a>$/;"	function	line:374
+ul	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^          <ul class="dropdown-menu multilevel" role="menu">$/;"	function	line:375
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><a href="about.html">About Page Style 1<\/a><\/li>$/;"	function	line:376
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><a href="about-2.html">About Page Style 2<\/a><\/li>$/;"	function	line:377
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><a href="about-3.html">About Page Style 3<\/a><\/li>$/;"	function	line:378
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><a href="team.html">Our Team<\/a><\/li>$/;"	function	line:379
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><a href="services.html">Services Style 1<\/a><\/li>$/;"	function	line:380
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><a href="services-2.html">Services Style 2<\/a><\/li>$/;"	function	line:381
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><a href="services-3.html">Services Style 3<\/a><\/li>$/;"	function	line:382
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><a href="full-width.html">Full Width Page<\/a><\/li>$/;"	function	line:383
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><a href="left-sidebar.html">Left Sidebar Page<\/a><\/li>$/;"	function	line:384
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><a href="right-sidebar.html">Right Sidebar Page<\/a><\/li>$/;"	function	line:385
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><a href="left-nav.html">Left Navigation<\/a><\/li>$/;"	function	line:386
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><a href="right-nav.html">Right Navigation<\/a><\/li>$/;"	function	line:387
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><a href="login.html">Login Form<\/a><\/li>$/;"	function	line:388
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><a href="register.html">Registration Form<\/a><\/li>$/;"	function	line:389
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><a href="404.html">404 Error Page<\/a><\/li>$/;"	function	line:390
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^          <li class="dropdown-submenu mul"> <a tabindex="-1" href="#">Sub Menu + <\/a>$/;"	function	line:391
+ul	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <ul class="dropdown-menu">$/;"	function	line:392
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <li><a href="#">Menu Item 1<\/a><\/li>$/;"	function	line:393
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <li><a href="#">Menu Item 2<\/a><\/li>$/;"	function	line:394
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <li><a href="#">Menu Item 3<\/a><\/li>$/;"	function	line:395
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <li class="dropdown"> <a href="#" data-toggle="dropdown" class="dropdown-toggle"><i class="fa fa-file-image-o"><\/i> Portfolio<\/a>$/;"	function	line:401
+ul	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <ul class="dropdown-menu" role="menu">$/;"	function	line:402
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^          <li> <a href="portfolio-one.html">Single Item<\/a> <\/li>$/;"	function	line:403
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^          <li> <a href="portfolio-two.html">Portfolio Columns 2<\/a> <\/li>$/;"	function	line:404
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^          <li> <a href="portfolio-three.html">Portfolio Columns 3<\/a> <\/li>$/;"	function	line:405
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^          <li> <a href="portfolio-four.html">Portfolio Columns 4<\/a> <\/li>$/;"	function	line:406
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^          <li> <a href="portfolio-five.html">Portfolio + Sidebar<\/a> <\/li>$/;"	function	line:407
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^          <li> <a href="portfolio-six.html">Portfolio Full Width<\/a> <\/li>$/;"	function	line:408
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^          <li> <a href="portfolio-seven.html">Image Gallery<\/a> <\/li>$/;"	function	line:409
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <li class="dropdown"> <a href="#" data-toggle="dropdown" class="dropdown-toggle active"><i class="fa fa-comment"><\/i> Blog<\/a>$/;"	function	line:413
+ul	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <ul class="dropdown-menu three" role="menu">$/;"	function	line:414
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^          <li> <a href="blog.html">With Large Image<\/a> <\/li>$/;"	function	line:415
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^          <li> <a href="blog-2.html">With Small Image<\/a> <\/li>$/;"	function	line:416
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^          <li> <a href="blog-post.html">Single Post<\/a> <\/li>$/;"	function	line:417
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <li class="dropdown"> <a href="#" data-toggle="dropdown" class="dropdown-toggle"><i class="fa fa-phone"><\/i> Contact<\/a>$/;"	function	line:421
+ul	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <ul class="dropdown-menu two" role="menu">$/;"	function	line:422
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^          <li> <a href="contact.html">Contact Variation 1<\/a> <\/li>$/;"	function	line:423
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^          <li> <a href="contact2.html">Contact Variation 2<\/a> <\/li>$/;"	function	line:424
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^          <li> <a href="contact3.html">Contact Variation 3<\/a> <\/li>$/;"	function	line:425
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <div id="wrap">$/;"	function	line:431
+form	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^          <form action="index.html" autocomplete="on">$/;"	function	line:432
+input	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^          <input id="search" name="search" type="text" placeholder=""><input id="search_submit" value="search" type="submit">$/;"	function	line:433
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^<div class="clearfix"><\/div>$/;"	function	line:451
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^<div class="page_title2">$/;"	function	line:453
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^<div class="container">$/;"	function	line:454
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    <div class="two_third">$/;"	function	line:456
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    	<div class="title"><h1>Small Image<\/h1><\/div>$/;"	function	line:458
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <div class="pagenation">&nbsp;<a href="index.html">Home<\/a> <i>\/<\/i> <a href="#">Blog<\/a> <i>\/<\/i> Small Image<\/div>$/;"	function	line:460
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    <div class="one_third last">$/;"	function	line:464
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    	<div class="site-search-area">$/;"	function	line:466
+form	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    	<form method="get" id="site-searchform" action="blog.html">$/;"	function	line:468
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <div>$/;"	function	line:469
+input	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <input class="input-text" name="s" id="s" value="Enter Search Blog..." onFocus="if (this.value == 'Enter Search Blog...') {this.value = '';}" onBlur="if (this.value == '') {this.value = 'Enter Search Blog...';}" type="text" \/>$/;"	function	line:470
+input	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <input id="searchsubmit" value="Search" type="submit" \/>$/;"	function	line:471
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^<div class="clearfix"><\/div>$/;"	function	line:482
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^<div class="container">$/;"	function	line:484
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^	<div class="content_left">$/;"	function	line:486
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    <div class="blog_post">$/;"	function	line:488
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <div class="blog_postcontent">$/;"	function	line:489
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <div class="image_frame"><a href="#"><img src="http:\/\/placehold.it\/1170x520" alt="" \/><\/a><\/div>$/;"	function	line:490
+h	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <h3><a href="blog-post.html">Many web sites still in their infancy<\/a><\/h3>$/;"	function	line:491
+ul	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <ul class="post_meta_links">$/;"	function	line:492
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            	<li><a href="#" class="date">22 July 2014<\/a><\/li>$/;"	function	line:493
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <li class="post_by"><i>by:<\/i> <a href="#">Adam Harrison<\/a><\/li>$/;"	function	line:494
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <li class="post_categoty"><i>in:<\/i> <a href="#">Web tutorials<\/a><\/li>$/;"	function	line:495
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <li class="post_comments"><i>note:<\/i> <a href="#">18 Comments<\/a><\/li>$/;"	function	line:496
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^         <div class="clearfix"><\/div>$/;"	function	line:498
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^         <div class="margin_top1"><\/div>$/;"	function	line:499
+p	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <p>Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years <a href="#">read more...<\/a><\/p>$/;"	function	line:500
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    <div class="clearfix divider_dashed9"><\/div>$/;"	function	line:504
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    <div class="blog_post">$/;"	function	line:506
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <div class="blog_postcontent">$/;"	function	line:507
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <div class="image_frame"><a href="#"><img src="http:\/\/placehold.it\/1170x520" alt="" \/><\/a><\/div>$/;"	function	line:508
+h	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <h3><a href="blog-post.html">Letraset sheets containing lorem passages<\/a><\/h3>$/;"	function	line:509
+ul	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <ul class="post_meta_links">$/;"	function	line:510
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            	<li><a href="#" class="date">21 July 2014<\/a><\/li>$/;"	function	line:511
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <li class="post_by"><i>by:<\/i> <a href="#">Adam Harrison<\/a><\/li>$/;"	function	line:512
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <li class="post_categoty"><i>in:<\/i> <a href="#">Web tutorials<\/a><\/li>$/;"	function	line:513
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <li class="post_comments"><i>note:<\/i> <a href="#">18 Comments<\/a><\/li>$/;"	function	line:514
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^         <div class="clearfix"><\/div>$/;"	function	line:516
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^         <div class="margin_top1"><\/div>$/;"	function	line:517
+p	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <p>Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years <a href="#">read more...<\/a><\/p>$/;"	function	line:518
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    <div class="clearfix divider_dashed9"><\/div>$/;"	function	line:522
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    <div class="blog_post">$/;"	function	line:525
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <div class="blog_postcontent">$/;"	function	line:526
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <div class="video_frame"><iframe src="http:\/\/www.youtube.com\/embed\/YRb-xF0RW-k"><\/iframe><\/div>$/;"	function	line:527
+h	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <h3><a href="blog-post.html">Through the cites of the word in classical literature<\/a><\/h3>$/;"	function	line:528
+ul	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <ul class="post_meta_links">$/;"	function	line:529
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            	<li><a href="#" class="date">20 July 2014<\/a><\/li>$/;"	function	line:530
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <li class="post_by"><i>by:<\/i> <a href="#">Adam Harrison<\/a><\/li>$/;"	function	line:531
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <li class="post_categoty"><i>in:<\/i> <a href="#">Web tutorials<\/a><\/li>$/;"	function	line:532
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <li class="post_comments"><i>note:<\/i> <a href="#">18 Comments<\/a><\/li>$/;"	function	line:533
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^         <div class="clearfix"><\/div>$/;"	function	line:535
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^         <div class="margin_top1"><\/div>$/;"	function	line:536
+p	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <p>Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years <a href="#">read more...<\/a><\/p>$/;"	function	line:537
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    <div class="clearfix divider_dashed9"><\/div>$/;"	function	line:541
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    <div class="blog_post">$/;"	function	line:544
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <div class="blog_postcontent">$/;"	function	line:545
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <div class="image_frame"><a href="#"><img src="http:\/\/placehold.it\/1170x520" alt="" \/><\/a><\/div>$/;"	function	line:546
+h	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <h3><a href="blog-post.html">Making this the first true generator on the internet<\/a><\/h3>$/;"	function	line:547
+ul	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <ul class="post_meta_links">$/;"	function	line:548
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            	<li><a href="#" class="date">19 July 2014<\/a><\/li>$/;"	function	line:549
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <li class="post_by"><i>by:<\/i> <a href="#">Adam Harrison<\/a><\/li>$/;"	function	line:550
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <li class="post_categoty"><i>in:<\/i> <a href="#">Web tutorials<\/a><\/li>$/;"	function	line:551
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <li class="post_comments"><i>note:<\/i> <a href="#">18 Comments<\/a><\/li>$/;"	function	line:552
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^         <div class="clearfix"><\/div>$/;"	function	line:554
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^         <div class="margin_top1"><\/div>$/;"	function	line:555
+p	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <p>Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years <a href="#">read more...<\/a><\/p>$/;"	function	line:556
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    <div class="clearfix divider_dashed9"><\/div>$/;"	function	line:560
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    <div class="blog_post">$/;"	function	line:563
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <div class="blog_postcontent">$/;"	function	line:564
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <div class="image_frame"><a href="#"><img src="http:\/\/placehold.it\/1170x520" alt="" \/><\/a><\/div>$/;"	function	line:565
+h	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <h3><a href="blog-post.html">Versions have evolved over the years<\/a><\/h3>$/;"	function	line:566
+ul	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <ul class="post_meta_links">$/;"	function	line:567
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            	<li><a href="#" class="date">18 July 2014<\/a><\/li>$/;"	function	line:568
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <li class="post_by"><i>by:<\/i> <a href="#">Adam Harrison<\/a><\/li>$/;"	function	line:569
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <li class="post_categoty"><i>in:<\/i> <a href="#">Web tutorials<\/a><\/li>$/;"	function	line:570
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <li class="post_comments"><i>note:<\/i> <a href="#">18 Comments<\/a><\/li>$/;"	function	line:571
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^         <div class="clearfix"><\/div>$/;"	function	line:573
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^         <div class="margin_top1"><\/div>$/;"	function	line:574
+p	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <p>Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years <a href="#">read more...<\/a><\/p>$/;"	function	line:575
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    <div class="clearfix divider_dashed9"><\/div>$/;"	function	line:579
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^	<div class="pagination">$/;"	function	line:581
+b	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    <b>Page 2 of 18<\/b>$/;"	function	line:582
+a	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    <a href="#" class="navlinks">&lt; Previous<\/a>$/;"	function	line:583
+a	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <a href="#" class="navlinks">1<\/a>$/;"	function	line:584
+a	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <a href="#" class="navlinks current">2<\/a>$/;"	function	line:585
+a	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <a href="#" class="navlinks">3<\/a>$/;"	function	line:586
+a	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <a href="#" class="navlinks">4<\/a>$/;"	function	line:587
+a	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <a href="#" class="navlinks">Next ><\/a>$/;"	function	line:588
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^<div class="right_sidebar">$/;"	function	line:595
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    <div class="sidebar_widget">$/;"	function	line:597
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    	<div class="sidebar_title"><h4>Site <i>Categories<\/i><\/h4><\/div>$/;"	function	line:599
+ul	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^		<ul class="arrows_list1">$/;"	function	line:600
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><a href="#"><i class="fa fa-caret-right"><\/i> Economics<\/a><\/li>$/;"	function	line:601
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><a href="#"><i class="fa fa-caret-right"><\/i> Social Media<\/a><\/li>$/;"	function	line:602
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><a href="#"><i class="fa fa-caret-right"><\/i> Economics<\/a><\/li>$/;"	function	line:603
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><a href="#"><i class="fa fa-caret-right"><\/i> Online Gaming<\/a><\/li>$/;"	function	line:604
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><a href="#"><i class="fa fa-caret-right"><\/i> Entertainment<\/a><\/li>$/;"	function	line:605
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><a href="#"><i class="fa fa-caret-right"><\/i> Technology<\/a><\/li>$/;"	function	line:606
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><a href="#"><i class="fa fa-caret-right"><\/i> Make Money Online<\/a><\/li>$/;"	function	line:607
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><a href="#"><i class="fa fa-caret-right"><\/i> Photography<\/a><\/li>$/;"	function	line:608
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><a href="#"><i class="fa fa-caret-right"><\/i> Web Tutorials<\/a><\/li>$/;"	function	line:609
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    <div class="clearfix margin_top4"><\/div>$/;"	function	line:614
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    <div class="sidebar_widget">$/;"	function	line:616
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    	<div id="tabs">$/;"	function	line:618
+ul	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^			<ul class="tabs">$/;"	function	line:620
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^				<li class="active"><a href="#tab1">Popular<\/a><\/li>$/;"	function	line:621
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^				<li><a href="#tab2">Recent<\/a><\/li>$/;"	function	line:622
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^				<li class="last"><a href="#tab3">Tags<\/a><\/li>$/;"	function	line:623
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^		<div class="tab_container">$/;"	function	line:626
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^			<div id="tab1" class="tab_content">$/;"	function	line:627
+ul	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^				<ul class="recent_posts_list">$/;"	function	line:629
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^					<li>$/;"	function	line:630
+span	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^					  	<span><a href="#"><img src="http:\/\/placehold.it\/50x50" alt="" \/><\/a><\/span>$/;"	function	line:631
+a	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^						<a href="#">Publishing packag esanse web page editos<\/a>$/;"	function	line:632
+i	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^						 <i>July 13, 2014<\/i>$/;"	function	line:633
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^					<li>$/;"	function	line:635
+span	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^					  	<span><a href="#"><img src="http:\/\/placehold.it\/50x50" alt="" \/><\/a><\/span>$/;"	function	line:636
+a	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^						<a href="#">Sublishing packag esanse web page editos<\/a>$/;"	function	line:637
+i	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^						 <i>July 12, 2014<\/i>$/;"	function	line:638
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^					<li class="last">$/;"	function	line:640
+span	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^					  	<span><a href="#"><img src="http:\/\/placehold.it\/50x50" alt="" \/><\/a><\/span>$/;"	function	line:641
+a	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^						<a href="#">Mublishing packag esanse web page editos<\/a>$/;"	function	line:642
+i	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^						 <i>July 11, 2014<\/i>$/;"	function	line:643
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^			<div id="tab2" class="tab_content">$/;"	function	line:649
+ul	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^				<ul class="recent_posts_list">$/;"	function	line:650
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^					<li>$/;"	function	line:652
+span	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^					  	<span><a href="#"><img src="http:\/\/placehold.it\/50x50" alt="" \/><\/a><\/span>$/;"	function	line:653
+a	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^						<a href="#">Various versions has evolved over the years<\/a>$/;"	function	line:654
+i	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^						 <i>July 18, 2014<\/i>$/;"	function	line:655
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^					<li>$/;"	function	line:657
+span	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^					  	<span><a href="#"><img src="http:\/\/placehold.it\/50x50" alt="" \/><\/a><\/span>$/;"	function	line:658
+a	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^						<a href="#">Rarious versions has evolve over the years<\/a>$/;"	function	line:659
+i	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^						 <i>July 17, 2014<\/i>$/;"	function	line:660
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^					<li class="last">$/;"	function	line:662
+span	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^					  	<span><a href="#"><img src="http:\/\/placehold.it\/50x50" alt="" \/><\/a><\/span>$/;"	function	line:663
+a	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^						<a href="#">Marious versions has evolven over the years<\/a>$/;"	function	line:664
+i	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^						 <i>July 16, 2014<\/i>$/;"	function	line:665
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^			<div id="tab3" class="tab_content">$/;"	function	line:671
+ul	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^				<ul class="tags">$/;"	function	line:672
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^					<li><a href="#">2014<\/a><\/li>$/;"	function	line:674
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^					<li><a href="#"><b>Amazing<\/b><\/a><\/li>$/;"	function	line:675
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^					<li><a href="#">Animation<\/a><\/li>$/;"	function	line:676
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^					<li><a href="#">Beautiful<\/a><\/li>$/;"	function	line:677
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^					<li><a href="#"><b>Cartoon<\/b><\/a><\/li>$/;"	function	line:678
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^					<li><a href="#">Comedy<\/a><\/li>$/;"	function	line:679
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^					<li><a href="#"><b>Cool<\/b><\/a><\/li>$/;"	function	line:680
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^					<li><a href="#">Dance<\/a><\/li>$/;"	function	line:681
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^					<li><a href="#">Drive<\/a><\/li>$/;"	function	line:682
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^					<li><a href="#"><b>Family<\/b><\/a><\/li>$/;"	function	line:683
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^					<li><a href="#"><b>Fantasy<\/b><\/a><\/li>$/;"	function	line:684
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^					<li><a href="#">News<\/a><\/li>$/;"	function	line:685
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^					<li><a href="#"><b>Friends<\/b><\/a><\/li>$/;"	function	line:686
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^					<li><a href="#">Funny<\/a><\/li>$/;"	function	line:687
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^					<li><a href="#"><b>Games<\/b><\/a><\/li>$/;"	function	line:688
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^					<li><a href="#">Love<\/a><\/li>$/;"	function	line:689
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^					<li><a href="#"><b>Music<\/b><\/a><\/li>$/;"	function	line:690
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^					<li><a href="#">Nature<\/a><\/li>$/;"	function	line:691
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^					<li><a href="#"><b>Party<\/b><\/a><\/li>$/;"	function	line:692
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^					<li><a href="#">Pictures<\/a><\/li>$/;"	function	line:693
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^					<li><a href="#">Sports<\/a><\/li>$/;"	function	line:694
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^					<li><a href="#"><b>Best<\/b><\/a><\/li>$/;"	function	line:695
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^					<li><a href="#">Wedding<\/a><\/li>$/;"	function	line:696
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^					<li><a href="#">Weight<\/a><\/li>$/;"	function	line:697
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^					<li><a href="#"><b>Youtube<\/b><\/a><\/li>$/;"	function	line:698
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    <div class="clearfix margin_top5"><\/div>$/;"	function	line:708
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    <div class="clientsays_widget">$/;"	function	line:710
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    	<div class="sidebar_title"><h4>Happy <i>Client Say's<\/i><\/h4><\/div>$/;"	function	line:712
+img	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <img src="http:\/\/placehold.it\/50x50" alt="" \/>$/;"	function	line:714
+strong	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^<strong>- Henry Brodie<\/strong><p>Lorem Ipsum passage, and going through the cites of the word here classical literature passage discovere there undou btable source looks reasonable the generated charac eristic words.<\/p>$/;"	function	line:715
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    <div class="clearfix margin_top4"><\/div>$/;"	function	line:719
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    <div class="sidebar_widget">$/;"	function	line:721
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    	<div class="sidebar_title"><h4>Portfolio <i>Widget<\/i><\/h4><\/div>$/;"	function	line:723
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <div class="features_sec15 two">$/;"	function	line:725
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <div>$/;"	function	line:727
+section	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^              <section class="slider nosidearrows">$/;"	function	line:728
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <div class="flexslider carousel">$/;"	function	line:729
+ul	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                  <ul class="slides">$/;"	function	line:731
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                        <li>$/;"	function	line:733
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                            <div class="grid-container cbp-l-grid-fullScreen sidebar">$/;"	function	line:735
+ul	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                            <ul>$/;"	function	line:736
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                              <li class="cbp-item identity logo"> <a href="http:\/\/placehold.it\/800x600" class="cbp-caption cbp-lightbox" data-title="Consectetuer Adipiscing<br>by Rutrum adipiscing luctus">$/;"	function	line:737
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                                <div class="cbp-caption-defaultWrap"> <img src="http:\/\/placehold.it\/800x600" alt="" \/> <\/div>$/;"	function	line:738
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                                <div class="cbp-caption-activeWrap">$/;"	function	line:739
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                                  <div class="cbp-l-caption-alignLeft">$/;"	function	line:740
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                                    <div class="cbp-l-caption-body">$/;"	function	line:741
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                                      <div class="margin_top7"><\/div>$/;"	function	line:742
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                                      <div class="cbp-l-caption-title">Consectetuer Adipiscing<\/div>$/;"	function	line:743
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                                      <div class="cbp-l-caption-desc">Rutrum adipiscing luctus<\/div>$/;"	function	line:744
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                        <li>$/;"	function	line:755
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                            <div class="grid-container cbp-l-grid-fullScreen sidebar">$/;"	function	line:757
+ul	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                            <ul>$/;"	function	line:758
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                              <li class="cbp-item"> <a href="http:\/\/placehold.it\/800x600" class="cbp-caption cbp-lightbox" data-title="Many Websites Infancy<br>by Rutrum adipiscing luctus">$/;"	function	line:759
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                                <div class="cbp-caption-defaultWrap"> <img src="http:\/\/placehold.it\/800x600" alt="" \/> <\/div>$/;"	function	line:760
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                                <div class="cbp-caption-activeWrap">$/;"	function	line:761
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                                  <div class="cbp-l-caption-alignLeft">$/;"	function	line:762
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                                    <div class="cbp-l-caption-body">$/;"	function	line:763
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                                    <div class="margin_top7"><\/div>$/;"	function	line:764
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                                      <div class="cbp-l-caption-title">Many Websites Infancy<\/div>$/;"	function	line:765
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                                      <div class="cbp-l-caption-desc">Rutrum adipiscing luctus<\/div>$/;"	function	line:766
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^						<li>$/;"	function	line:778
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                            <div class="grid-container cbp-l-grid-fullScreen sidebar">$/;"	function	line:780
+ul	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                            <ul>$/;"	function	line:781
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                              <li class="cbp-item motion graphic"> <a href="http:\/\/placehold.it\/800x600" class="cbp-caption cbp-lightbox" data-title="Words Believable<br>by Rutrum adipiscing luctus">$/;"	function	line:782
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                                <div class="cbp-caption-defaultWrap"> <img src="http:\/\/placehold.it\/800x600" alt="" \/> <\/div>$/;"	function	line:783
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                                <div class="cbp-caption-activeWrap">$/;"	function	line:784
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                                  <div class="cbp-l-caption-alignLeft">$/;"	function	line:785
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                                    <div class="cbp-l-caption-body">$/;"	function	line:786
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                                    <div class="margin_top7"><\/div>$/;"	function	line:787
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                                      <div class="cbp-l-caption-title">Words Believable<\/div>$/;"	function	line:788
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                                      <div class="cbp-l-caption-desc">Rutrum adipiscing luctus<\/div>$/;"	function	line:789
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <div class="cbp-l-loadMore-text">$/;"	function	line:802
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                    <div data-href="#" class="cbp-l-loadMore-text-link"><\/div>$/;"	function	line:803
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    <div class="clearfix margin_top3"><\/div>$/;"	function	line:814
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^	<div class="sidebar_widget">$/;"	function	line:816
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    	<div class="sidebar_title"><h4>Site <i>Advertisements<\/i><\/h4><\/div>$/;"	function	line:818
+ul	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^			<ul class="adsbanner-list">$/;"	function	line:820
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            	<li><a href="#"><img src="images\/sample-ad-banner.jpg" alt="" \/><\/a><\/li>$/;"	function	line:821
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^                <li class="last"><a href="#"><img src="images\/sample-ad-banner.jpg" alt="" \/><\/a><\/li>$/;"	function	line:822
+ul	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^           	<ul class="adsbanner-list">$/;"	function	line:825
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            	<li><a href="#"><img src="images\/sample-ad-banner.jpg" alt="" \/><\/a><\/li>$/;"	function	line:826
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            	<li class="last"><a href="#"><img src="images\/sample-ad-banner.jpg" alt="" \/><\/a><\/li>$/;"	function	line:827
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^	<div class="clearfix margin_top4"><\/div>$/;"	function	line:832
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^	<div class="sidebar_widget">$/;"	function	line:834
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    	<div class="sidebar_title"><h3>Site <i>Archives<\/i><\/h3><\/div>$/;"	function	line:836
+ul	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^		<ul class="arrows_list1">$/;"	function	line:838
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><a href="#"><i class="fa fa-angle-right"><\/i> July 2014<\/a><\/li>$/;"	function	line:839
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><a href="#"><i class="fa fa-angle-right"><\/i> June 2014<\/a><\/li>$/;"	function	line:840
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><a href="#"><i class="fa fa-angle-right"><\/i> May 2014<\/a><\/li>$/;"	function	line:841
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><a href="#"><i class="fa fa-angle-right"><\/i> April 2014<\/a><\/li>$/;"	function	line:842
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><a href="#"><i class="fa fa-angle-right"><\/i> March 2014<\/a><\/li>$/;"	function	line:843
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^<div class="clearfix margin_top3"><\/div>$/;"	function	line:853
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^<div class="footer_graph"><\/div>$/;"	function	line:855
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^<div class="clearfix"><\/div>$/;"	function	line:857
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^<div class="footer1">$/;"	function	line:859
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^<div class="container">$/;"	function	line:860
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^	<div class="one_half animate" data-anim-type="fadeInLeft">$/;"	function	line:862
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    	<div class="twitter_feeds_two">$/;"	function	line:863
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    		<div class="left"><i class="fa fa-twitter"><\/i> <h5 class="white">Twitter Feeds<\/h5><\/div>$/;"	function	line:865
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <div class="right">gsrthemes9: Avira - Responsive html5 Professional and Brand New Look Template on ThemeForest. <em>.9 days ago .<a href="#">reply<\/a> .<a href="#">retweet<\/a> .<a href="#">favorite<\/a><\/em><\/div>$/;"	function	line:867
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    <div class="one_half last animate" data-anim-type="fadeInRight">$/;"	function	line:872
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    	<div class="newsletter_two">$/;"	function	line:873
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    	<div class="left"><i class="fa fa-envelope"><\/i> <h5 class="white">Sign up Newsletter<\/h5><\/div>$/;"	function	line:875
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <div class="right">$/;"	function	line:877
+form	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <form method="get" action="index.html">$/;"	function	line:878
+input	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <input class="enter_email_input" name="samplees" id="samplees" value="Please enter your Email Address" onFocus="if(this.value == 'Please enter your Email Address') {this.value = '';}" onBlur="if (this.value == '') {this.value = 'Please enter your Email Address';}" type="text">$/;"	function	line:879
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <div class="clearfix"><\/div>$/;"	function	line:880
+input	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <input name="" value="Subscribe Now!" class="input_submit" type="submit">$/;"	function	line:881
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    <div class="clearfix divider_dashed1"><\/div>$/;"	function	line:888
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    <div class="one_fourth animate" data-anim-type="fadeInUp">$/;"	function	line:890
+ul	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <ul class="faddress">$/;"	function	line:891
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><img src="images\/footer-logo.png" alt="" \/><\/li>$/;"	function	line:892
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><i class="fa fa-map-marker fa-lg"><\/i>&nbsp; 2901 Marmora Road, Glassgow,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seattle, WA 98122-1090<\/li>$/;"	function	line:893
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><i class="fa fa-phone"><\/i>&nbsp; 1 -234 -456 -7890<\/li>$/;"	function	line:894
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><i class="fa fa-print"><\/i>&nbsp; 1 -234 -456 -7890<\/li>$/;"	function	line:895
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><a href="mailto:info@yourdomain.com"><i class="fa fa-envelope"><\/i> info@yourdomain.com<\/a><\/li>$/;"	function	line:896
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><img src="images\/footer-wmap.png" alt="" \/><\/li>$/;"	function	line:897
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    <div class="one_fourth animate" data-anim-type="fadeInUp">$/;"	function	line:901
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    <div class="qlinks">$/;"	function	line:902
+h	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    	<h4 class="lmb">Useful Links<\/h4>$/;"	function	line:904
+ul	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <ul>$/;"	function	line:906
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><a href="#"><i class="fa fa-angle-right"><\/i> Home Page Variations<\/a><\/li>$/;"	function	line:907
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><a href="#"><i class="fa fa-angle-right"><\/i> Awsome Slidershows<\/a><\/li>$/;"	function	line:908
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><a href="#"><i class="fa fa-angle-right"><\/i> Features and Typography<\/a><\/li>$/;"	function	line:909
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><a href="#"><i class="fa fa-angle-right"><\/i> Different &amp; Unique Pages<\/a><\/li>$/;"	function	line:910
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><a href="#"><i class="fa fa-angle-right"><\/i> Single and Portfolios<\/a><\/li>$/;"	function	line:911
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><a href="#"><i class="fa fa-angle-right"><\/i> Recent Blogs or News<\/a><\/li>$/;"	function	line:912
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li><a href="#"><i class="fa fa-angle-right"><\/i> Layered PSD Files<\/a><\/li>$/;"	function	line:913
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    <div class="one_fourth animate" data-anim-type="fadeInUp">$/;"	function	line:919
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    <div class="siteinfo">$/;"	function	line:920
+h	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    	<h4 class="lmb">About Hoxa<\/h4>$/;"	function	line:922
+p	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <p>All the Lorem Ipsum generators on the Internet tend to repeat predefined an chunks as necessary, making this the first true generator on the Internet. Lorem Ipsum as their default model text, and a search for lorem ipsum will uncover many web sites.<\/p>$/;"	function	line:924
+br	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <br \/>$/;"	function	line:925
+a	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <a href="#">Read more <i class="fa fa-long-arrow-right"><\/i><\/a>$/;"	function	line:926
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    <div class="one_fourth last animate" data-anim-type="fadeInUp">$/;"	function	line:931
+h	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <h4>Flickr Photos<\/h4>$/;"	function	line:933
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <div id="flickr_badge_wrapper">$/;"	function	line:935
+script	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <script type="text\/javascript" src="http:\/\/www.flickr.com\/badge_code_v2.gne?count=9&amp;display=latest&amp;size=s&amp;layout=h&amp;source=user&amp;user=93382411%40N07"><\/script>$/;"	function	line:936
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^<div class="clearfix"><\/div>$/;"	function	line:945
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^<div class="copyright_info">$/;"	function	line:947
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^<div class="container">$/;"	function	line:948
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^	<div class="clearfix divider_dashed10"><\/div>$/;"	function	line:950
+div	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^    <div class="one_half last">$/;"	function	line:952
+ul	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^        <ul class="footer_social_links">$/;"	function	line:954
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li class="animate" data-anim-type="zoomIn"><a href="#"><i class="fa fa-facebook"><\/i><\/a><\/li>$/;"	function	line:955
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li class="animate" data-anim-type="zoomIn"><a href="#"><i class="fa fa-twitter"><\/i><\/a><\/li>$/;"	function	line:956
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li class="animate" data-anim-type="zoomIn"><a href="#"><i class="fa fa-google-plus"><\/i><\/a><\/li>$/;"	function	line:957
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li class="animate" data-anim-type="zoomIn"><a href="#"><i class="fa fa-linkedin"><\/i><\/a><\/li>$/;"	function	line:958
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li class="animate" data-anim-type="zoomIn"><a href="#"><i class="fa fa-skype"><\/i><\/a><\/li>$/;"	function	line:959
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li class="animate" data-anim-type="zoomIn"><a href="#"><i class="fa fa-flickr"><\/i><\/a><\/li>$/;"	function	line:960
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li class="animate" data-anim-type="zoomIn"><a href="#"><i class="fa fa-html5"><\/i><\/a><\/li>$/;"	function	line:961
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li class="animate" data-anim-type="zoomIn"><a href="#"><i class="fa fa-youtube"><\/i><\/a><\/li>$/;"	function	line:962
+li	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^            <li class="animate" data-anim-type="zoomIn"><a href="#"><i class="fa fa-rss"><\/i><\/a><\/li>$/;"	function	line:963
+a	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^<a href="#" class="scrollup">Scroll<\/a><!-- end scroll to top of the page-->$/;"	function	line:972
+script	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^<script type="text\/javascript" src="public\/js\/universal\/jquery.js"><\/script>$/;"	function	line:983
+script	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^<script src="public\/js\/style-switcher\/jquery-1.js"><\/script>$/;"	function	line:986
+script	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^<script src="public\/js\/style-switcher\/styleselector.js"><\/script>$/;"	function	line:987
+script	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^<script src="public\/js\/animations\/js\/animations.min.js" type="text\/javascript"><\/script>$/;"	function	line:990
+script	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^<script type="text\/javascript" src="public\/js\/slidepanel\/slidepanel.js"><\/script>$/;"	function	line:994
+script	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^<script src="public\/js\/mainmenu\/bootstrap.min.js"><\/script>$/;"	function	line:997
+script	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^<script src="public\/js\/mainmenu\/customeUI.js"><\/script>$/;"	function	line:998
+script	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^<script type="text\/javascript" src="public\/js\/carousel\/jquery.jcarousel.min.js"><\/script>$/;"	function	line:1001
+script	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^<script type="text\/javascript" src="public\/js\/tabs\/tabwidget\/tabwidget.js"><\/script>$/;"	function	line:1004
+script	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^<script src="public\/js\/scrolltotop\/totop.js" type="text\/javascript"><\/script>$/;"	function	line:1007
+script	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^<script src="public\/js\/tabs\/assets\/js\/responsive-tabs.min.js" type="text\/javascript"><\/script>$/;"	function	line:1010
+script	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^<script type="text\/javascript">$/;"	function	line:1013
+script	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^<script type="text\/javascript" src="public\/js\/accordion\/custom.js"><\/script>$/;"	function	line:1026
+script	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^<script type="text\/javascript" src="public\/js\/mainmenu\/sticky.js"><\/script>$/;"	function	line:1029
+script	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^<script type="text\/javascript" src="public\/js\/mainmenu\/modernizr.custom.75180.js"><\/script>$/;"	function	line:1030
+script	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^<script type="text\/javascript" src="public\/js\/cubeportfolio\/jquery.cubeportfolio.min.js"><\/script>$/;"	function	line:1033
+script	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^<script type="text\/javascript" src="public\/js\/cubeportfolio\/main4.js"><\/script>$/;"	function	line:1035
+script	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^<script type="text\/javascript" src="public\/js\/cubeportfolio\/main6.js"><\/script>$/;"	function	line:1036
+script	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^<script defer src="public\/js\/carousel\/jquery.flexslider.js"><\/script>$/;"	function	line:1039
+script	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^<script defer src="public\/js\/carousel\/custom.js"><\/script>$/;"	function	line:1040
+script	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^<script type="text\/javascript" src="public\/js\/lightbox\/jquery.fancybox.js"><\/script>$/;"	function	line:1043
+script	/home/girish/Documents/Github/appbase-blog/blog-2.html	/^<script type="text\/javascript" src="public\/js\/lightbox\/custom.js"><\/script>$/;"	function	line:1044
