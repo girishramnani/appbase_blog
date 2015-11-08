@@ -17,6 +17,7 @@
     "express-session": "^1.12.1",
     "gulp": "^3.9.0",
     "gulp-prompt": "^0.1.2",
+    "node-uuid": "^1.4.3",
     "prompt": "^0.2.14"
   },
   "devDependencies": {

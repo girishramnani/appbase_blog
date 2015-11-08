@@ -27,11 +27,16 @@
                     <li>
                         <a href="/about">About</a>
                     </li>
-                    <li>
-                        <a href="/post">Sample Post</a>
-                    </li>
+                    
                     <li>
                         <a href="/contact">Contact</a>
+                    </li>
+                     <li>
+                    {{#if currentUser}}
+                        <a class="auth-link" href="/auth/logout"><em>Logout</em></a>
+                    {{else}}
+                          <a class="auth-link" href="/auth/login"><em>Login</em></a>
+                    {{/if}}
                     </li>
                 </ul>
             </div>

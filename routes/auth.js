@@ -29,11 +29,14 @@ router.route("/login")
      console.log(req.body.password);
      var email = req.body.email;
      var password =req.body.password;
-     if(cred.email !== email){
+     if(cred.email !== email || !bcrypt.compare(password,cred.password)){
         error_context.message = "the username or password is incorrect";
          error_context.had_once = false;
         res.redirect("/auth/login");
      }
+    else{
+        res.redirect("/");
+    }
     
 
 });

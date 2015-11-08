@@ -5,6 +5,7 @@ var config = require("../appbaseConfig");
 var fs = require("fs");
 var auth = require("./routes/auth");
 var bodyParser = require("body-parser");
+var session =require("express-session");
 
 if(!fs.existsSync("cred.json"))
 {
@@ -29,6 +30,8 @@ app.use(bodyParser.urlencoded({
       extended: true
 }));
 
+app.use(session({secret:'something which no one can find'}));
+
 
 
 app.use("/auth",auth);
@@ -46,5 +49,11 @@ app.get("/about",function(req,res){
 app.get("/contact",function(req,res){
    res.render("contact"); 
 });
+
+ app.use(function(req, res, next) {
+     res.status(404);
+      res.render("404",{layout:false});
+});
+ 
 
 app.listen(8000);
