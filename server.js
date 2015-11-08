@@ -4,7 +4,7 @@ var Appbase = require('appbase-js');
 var config = require("../appbaseConfig");
 var fs = require("fs");
 var auth = require("./routes/auth");
-
+var bodyParser = require("body-parser");
 
 if(!fs.existsSync("cred.json"))
 {
@@ -24,6 +24,12 @@ var app = express(config);
 app.use("/static",express.static(__dirname+"/public"));
 app.engine('hbs', express_hbs({extname:'hbs', defaultLayout:'main.hbs'}));
 app.set('view engine', 'hbs');
+app.use( bodyParser.json());   
+app.use(bodyParser.urlencoded({     
+      extended: true
+}));
+
+
 
 app.use("/auth",auth);
 
