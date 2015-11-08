@@ -14,6 +14,7 @@
     "body-parser": "^1.14.1",
     "express": "^4.13.3",
     "express-handlebars": "^2.0.1",
+    "express-session": "^1.12.1",
     "gulp": "^3.9.0",
     "gulp-prompt": "^0.1.2",
     "prompt": "^0.2.14"
