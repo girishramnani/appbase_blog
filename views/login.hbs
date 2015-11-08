@@ -4,9 +4,11 @@
 
 <body>
 {{#if errors.message }}
-    <p>got some errors bro</p>
+    {{#with errors}}
+    {{> flash }}
+    {{/with}}
 {{/if}}
-<div class="container">
+<div class="container login">
     <div class="row">
     	<div class="col-md-4 col-md-offset-4">
     		<div class="panel panel-default">
@@ -17,10 +19,10 @@
 			    	<form accept-charset="UTF-8" role="form" action="" method="post">
                     <fieldset>
 			    	  	<div class="form-group">
-			    		    <input class="form-control" placeholder="yourmail@example.com" name="email" type="email">
+			    		    <input class="form-control" placeholder="yourmail@example.com" name="email" required=" "type="email">
 			    		</div>
 			    		<div class="form-group">
-			    			<input class="form-control" placeholder="Password" name="password" type="password" value="">
+			    			<input class="form-control" placeholder="Password" name="password" type="password" required="" value="">
 			    		</div>
 			    		<div class="checkbox">
 			    	    	<label>
@@ -36,5 +38,10 @@
 		</div>
 	</div>
 </div>
+
+<script src="/static/js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="/static/js/bootstrap.min.js"></script>
 </body>
 </html>
