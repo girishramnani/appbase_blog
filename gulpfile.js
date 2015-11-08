@@ -1,4 +1,4 @@
-
+var bcrypt = require("bcryptjs");
 var gulp = require("gulp");
 var prompt = require("prompt");
 var fs = require("fs");
@@ -17,16 +17,15 @@ var properties = [
 
 gulp.task("createSuperUser",function(){
 
-
-
-
-
     prompt.start();
     prompt.get(properties, function (err, result) {
     if (err) { return onErr(err); }
+
+    var salt = bcrypt.genSaltSync(10);
+    var hash = bcrypt.hashSync(result.password);
      var obj ={
         username:result.username,
-        password: result.password
+        password: hash
      };
      var json = JSON.stringify(obj);
      fs.writeFile("cred.json",json,function(err){

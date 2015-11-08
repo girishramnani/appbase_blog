@@ -26,9 +26,17 @@ app.engine('hbs', express_hbs({extname:'hbs', defaultLayout:'main.hbs'}));
 app.set('view engine', 'hbs');
 
 app.get("/",function(req,res){
+    res.render("index");
 
-  res.render("index");
+});
 
+app.get("/about",function(req,res){
+     res.render("about");
+
+});
+
+app.get("/contact",function(req,res){
+   res.render("contact"); 
 });
 
 app.listen(8000);
