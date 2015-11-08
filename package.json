@@ -12,6 +12,13 @@
     "appbase-js": "^0.8.1",
     "body-parser": "^1.14.1",
     "express": "^4.13.3",
-    "express-handlebars": "^2.0.1"
+    "express-handlebars": "^2.0.1",
+    "gulp": "^3.9.0",
+    "gulp-prompt": "^0.1.2",
+    "prompt": "^0.2.14"
+  },
+  "devDependencies": {
+    "chai": "^3.4.0",
+    "mocha": "^2.3.3"
   }
 }
