@@ -4,9 +4,9 @@ var prompt = require("prompt");
 var fs = require("fs");
 var properties = [
     {
-      name: 'username', 
-      validator: /^[a-zA-Z\s\-]+$/,
-      warning: 'Username must be only letters, spaces, or dashes'
+      name: 'email', 
+      validator:  /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i,
+      warning: 'the email address provided is invalid'
     },
     {
       name: 'password',
@@ -24,7 +24,7 @@ gulp.task("createSuperUser",function(){
     var salt = bcrypt.genSaltSync(10);
     var hash = bcrypt.hashSync(result.password);
      var obj ={
-        username:result.username,
+        email:result.email,
         password: hash
      };
      var json = JSON.stringify(obj);
