@@ -1,0 +1,69 @@
+{{> head }}
+<body>
+{{> navbar theme="dark"}}
+
+<div class="container-fluid">
+    
+        <div class="row">
+            <div class="col-md-10">
+                
+                
+                <div id="epiceditor">    
+                </div>
+            </div>
+            
+        </div>
+    
+
+    
+</div>
+    
+    {{> footer}}
+    
+
+
+<script src="/static/js/epiceditor.min.js">
+</script>
+<script>
+var conf = { 
+    container: 'epiceditor',
+  textarea: null,
+  basePath: 'epiceditor',
+  clientSideStorage: true,
+  localStorageName: 'epiceditor',
+  useNativeFullscreen: true,
+  parser: marked,
+  file: {
+    name: 'epiceditor',
+    defaultContent: '',
+    autoSave: 100
+  },
+  theme: {
+    base: 'http://0.0.0.0:8000/static/css/epiceditor.css',
+    preview: 'http://0.0.0.0:8000/static/css/preview-dark.css',
+    editor: 'http://0.0.0.0:8000/static/css/epic-dark.css'
+  },
+  button: {
+    preview: true,
+    fullscreen: true,
+    bar: "auto"
+  },
+  focusOnLoad: false,
+  shortcut: {
+    modifier: 18,
+    fullscreen: 70,
+    preview: 80
+  },
+  string: {
+    togglePreview: 'Toggle Preview Mode',
+    toggleEdit: 'Toggle Edit Mode',
+    toggleFullscreen: 'Enter Fullscreen'
+  },
+  autogrow: false
+};
+    
+var editor = new EpicEditor(conf).load();
+
+</script>
+    
+</body>

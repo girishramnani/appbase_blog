@@ -50,10 +50,18 @@ app.get("/contact",function(req,res){
    res.render("contact"); 
 });
 
+
+app.get('/create',function(req,res){
+    
+   res.render("editor",{layout: false}); 
+});
+
  app.use(function(req, res, next) {
      res.status(404);
       res.render("404",{layout:false});
 });
+
+
  
 
 app.listen(8000);

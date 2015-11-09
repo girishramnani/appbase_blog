@@ -9,3 +9,30 @@
     border: 4px white solid;
     
 }
+
+.dark .navbar-brand{
+    color: black;
+    
+}
+.dark .navbar-brand:hover {
+    color: gray;
+}
+
+.dark.navbar {
+  border-bottom: 2px black solid;
+  box-shadow: 0px 0px 10px 1px #000;
+}
+
+.dark .auth-link {
+    border: none;
+    
+}
+
+.dark .navbar-right li a {
+    color: black;
+}
+
+#epiceditor {
+    margin-top: 100px;
+    
+}
