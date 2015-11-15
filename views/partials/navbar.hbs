@@ -22,15 +22,15 @@
                     <li>
                         <a href="/about">About</a>
                     </li>
-                    
+
                     <li>
                         <a href="/contact">Contact</a>
                     </li>
                      <li>
-                    {{#if currentUser}}
-                        <a class="auth-link" href="/auth/logout"><em>Logout</em></a>
-                    {{else}}
-                          <a class="auth-link" href="/auth/login"><em>Login</em></a>
+                    {{#if (currentUser) }}
+                        <a class="auth-link" href="/auth/logout"><em>Logout </em></a>
+                        {{else}}
+                          <a class="auth-link" href="/auth/login"><em>Login {{ cu }}</em></a>
                     {{/if}}
                     </li>
                 </ul>
