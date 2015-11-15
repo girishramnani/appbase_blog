@@ -1,14 +1,18 @@
 var express  = require("express");
 var express_hbs = require('express-handlebars');
 var Appbase = require('appbase-js');
-var config = require("../appbaseConfig");
 var fs = require("fs");
-var auth = require("./routes/auth");
 var bodyParser = require("body-parser");
 var session =require("express-session");
 var uuid = require('uuid');
-var post = require("./routes/post");
+var HandlebarsIntl = require('handlebars-intl');
+
+var config = require("../appbaseConfig");
+var auth_route = require("./routes/auth");
+var post_route = require("./routes/post");
+
 var session_uids ={};
+var seed_posts = require("./seed");
 
 
 
@@ -23,63 +27,51 @@ if(!fs.existsSync("./cred.json"))
  }
 
 
-
-
-
 // use you appbase credentials here
 var appbase = new Appbase(config);
 
 
-var app = express();
-app.use("/static",express.static(__dirname+"/public"));
-
-app.engine('hbs', express_hbs({
+// using create to expose the handlebars object
+var expressHbs =  express_hbs.create({
   extname:'hbs',
    defaultLayout:'main.hbs',
    helpers: {
-
-      // loggedIn:function(block) {
-      //
-      //   if (auth.main_context.admin){
-      //     return block(this);
-      //   }
-      // },
-      // notloggedIn: function(block){
-      //
-      //     if (!auth.main_context.admin){
-      //       return block(this);
-      //     }
-      //   }
       currentUser:function(){
-
-        if(auth.main_context.admin){
+        if(auth_route.main_context.admin){
           return true;
-
         }
         return false;
       }
 
-  }}));
+  }});
+
+HandlebarsIntl.registerWith(expressHbs.handlebars);
+
+var app = express();
+
+app.use("/static",express.static(__dirname+"/public"));
+
+app.engine('hbs',expressHbs.engine);
 
 app.set('view engine', 'hbs');
 app.use( bodyParser.json());
 app.use(bodyParser.urlencoded({
       extended: true
 }));
-
 app.use(session({secret:'something which no one can find'}));
 
 
 
-app.use("/auth",auth);
-app.use("/post",post);
+app.use("/auth",auth_route);
+app.use("/post",post_route);
+
 
 app.get("/",function(req,res){
-
-    res.render("index");
-
+    console.log(expressHbs);
+    res.render("index",{
+      posts :seed_posts
+    });
 });
-
 app.get("/about",function(req,res){
      res.render("about");
 
