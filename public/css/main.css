@@ -1,18 +1,18 @@
 .login {
     margin-top: 50px;
     position: relative;
-    
+
 }
 
 .auth-link{
-    
+
     border: 4px white solid;
-    
+
 }
 
 .dark .navbar-brand{
     color: black;
-    
+
 }
 .dark .navbar-brand:hover {
     color: gray;
@@ -25,7 +25,7 @@
 
 .dark .auth-link {
     border: none;
-    
+
 }
 
 .dark .navbar-right li a {
@@ -33,6 +33,6 @@
 }
 
 #epiceditor {
-    margin-top: 100px;
-    
+    margin-top: 10px;
+
 }

@@ -1,3 +1,4 @@
+global.Intl = require('intl');
 var express  = require("express");
 var express_hbs = require('express-handlebars');
 var Appbase = require('appbase-js');
@@ -28,7 +29,7 @@ if(!fs.existsSync("./cred.json"))
 
 
 // use you appbase credentials here
-var appbase = new Appbase(config);
+var appbaseRef = new Appbase(config);
 
 
 // using create to expose the handlebars object
