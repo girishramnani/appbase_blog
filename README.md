@@ -6,5 +6,5 @@ a clean blog using appbase as model, express and handlebars for controller and t
 ## TODO
 
 + create an admin panel for adding new blog post with markdown.
-+ use app base for storage of blog posts.
-+ sue app base for realtime comment streaming.
++ <strike>use app base for storage of blog posts.</strike>
++ use app base for realtime comment streaming.
