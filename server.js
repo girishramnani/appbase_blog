@@ -1,21 +1,56 @@
 global.Intl = require('intl');
 var express  = require("express");
 var express_hbs = require('express-handlebars');
-var Appbase = require('appbase-js');
+
 var fs = require("fs");
 var bodyParser = require("body-parser");
 var session =require("express-session");
 var uuid = require('uuid');
 var HandlebarsIntl = require('handlebars-intl');
 
-var config = require("../appbaseConfig");
 var auth_route = require("./routes/auth");
 var post_route = require("./routes/post");
-
+var appbaseRef = require("./appbase");
 var session_uids ={};
 var seed_posts = require("./seed");
 
+function get_all_posts(cb){
 
+  appbaseRef.ar.search({
+    type:'posts',
+    body:{
+      query:{
+        match_all:{}
+      }
+    }
+  }).on("data",function(argument) {
+    cb(argument.hits.hits.map(function(post){
+      var temp = post._source;
+      console.log(temp.createdOn);
+      if(temp.createdOn){
+        temp.createdOn = Date.parse(temp.createdOn.toString());
+      }
+      else{
+        temp.createdOn = Date(); // just while debugging (also for not breaking the application if something goes wrong)
+      }
+      console.log(temp.createdOn);
+      return temp;
+    }));
+  });
+
+}
+
+//
+// appbaseRef.ar.search({
+//   type:'post-content',
+//   body:{
+//     query:{
+//       match_all:{}
+//     }
+//   }
+// }).on("data",function da(argument) {
+//   console.log(argument.hits.hits);
+// });
 
 
 if(!fs.existsSync("./cred.json"))
@@ -29,7 +64,7 @@ if(!fs.existsSync("./cred.json"))
 
 
 // use you appbase credentials here
-var appbaseRef = new Appbase(config);
+
 
 
 // using create to expose the handlebars object
@@ -68,10 +103,12 @@ app.use("/post",post_route);
 
 
 app.get("/",function(req,res){
-    console.log(expressHbs);
+  get_all_posts(function(data){
     res.render("index",{
-      posts :seed_posts
+      posts :data
     });
+  });
+
 });
 app.get("/about",function(req,res){
      res.render("about");
