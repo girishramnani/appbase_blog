@@ -7,9 +7,9 @@ var Post = function(title,subtitle){
 
 };
 
-Post.prototype.addContent=function(content){
+Post.prototype.addContent=function(content_id){
 
-  this.content = content;
+  this.content_id = content_id;
 
 };
 
@@ -18,7 +18,7 @@ Post.prototype.toJson = function(){
   return {
     title:self.title,
     subtitle:self.subtitle,
-    content:self.content,
+    content_id:self.content_id,
     createdOn:Date()
   };
 };
