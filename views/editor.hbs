@@ -7,19 +7,22 @@
 
         <div class="row">
             <div class="col-md-10 main-container">
+              <form method="post" action="" id="postForm">
                 <label for="title">Title:</label><input type="text" class="form-control" id="title" name="title" required="">
                 <label for="sub-title">Sub-title:</label><input type="text" class="form-control" id="sub-title" name="sub-title" required="">
 
                 <div id="epiceditor" style="height: 300px;">
                 </div>
+                <br>
+                <button type="submit" id="submit" class="btn btn-primary">Add post</button>
+                </form>
             </div>
 
         </div>
 
 
 
-<br>
-<div class="btn btn-primary">Add post</div>
+
 
 </div>
 
@@ -29,6 +32,7 @@
 
 <script src="/static/js/epiceditor.min.js">
 </script>
+{{> scripts}}
 <script>
 var conf = {
     container: 'epiceditor',
@@ -68,6 +72,18 @@ var conf = {
 };
 
 var editor = new EpicEditor(conf).load();
+
+$("#postForm").submit(function(evt){
+  var ps = $.post("",{
+    data:editor.exportFile(),
+    title:$("#title").val(),
+    subtitle:$("#sub-title").val()
+  });
+  evt.preventDefault();
+
+  ps.done(function(data){ $(location).attr("href","/")});
+
+})
 
 </script>
 
